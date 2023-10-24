@@ -1,0 +1,51 @@
+.home-header{
+    background-size: cover;
+    background-position:sticky;
+    height: 15rem;
+    background-image: url(https://www.itakeyou.co.uk/wp-content/uploads/2023/03/spring-wallpaper-2.jpg);
+}
+.home{
+    background-color:whitesmoke ;
+    /* background-image: url(https://static.vecteezy.com/system/resources/previews/010/839/386/original/aesthetic-minimal-cute-pastel-pink-wallpaper-illustration-perfect-for-wallpaper-backdrop-postcard-background-banner-vector.jpg); */
+}
+
+.first{
+    padding: 5rem;
+    margin-left: 20rem;
+}
+.first-div-header{
+    
+    width: 56rem;
+    background-size: cover;
+    background-position:sticky;
+    background-image: url(https://images.unsplash.com/photo-1634712282287-14ed57b9cc89?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZnVybml0dXJlJTIwZGVzaWdufGVufDB8fDB8fHww&w=1000&q=80);
+   
+}
+.about-header{
+    height:20rem;
+    background-color:rgba(137, 43, 226, 0.295);
+    text-align: center;
+}
+.signup{
+    padding:8px;
+    position: absolute;
+    border: nome;
+    right: 100px;
+    /* text-decoration:none; */
+    border-radius: 10px;
+    border:2px solid rgb(235,234,234);
+    background-color:darkorange;
+
+
+}
+.login{
+    padding:8px;
+    position: absolute;
+    border: nome;
+    right:10px;
+    border-radius: 10px;
+    border:2px solid rgb(235,234,234);
+    background-color:darkorange;
+
+
+}

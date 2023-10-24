@@ -1,0 +1,29 @@
+.sign-img{
+    display: flex;
+    justify-content: center;
+     background-image: url(https://wallpapercave.com/wp/wp9625999.jpg);
+    height:38rem;
+     background-size:cover;
+     background-position:sticky;
+     background-position: center;
+}
+.btn_1{
+    background-color:mediumpurple;
+    text-align: center;
+    height: 40px;
+    width: 77px;
+    padding: 6px;
+    justify-content: center;
+    justify-items: center;
+    border: none;
+    border-radius: 10px;
+}
+.sign-card{
+    background-color:whitesmoke;
+    text-align:center;
+    border-radius: 5px;
+
+}
+
+
+

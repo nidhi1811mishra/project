@@ -1,0 +1,16 @@
+.add-img{
+    height: 38rem;
+    background-size: cover;
+    background-position: center;
+    background-position: sticky;
+    background-image: url(https://images4.alphacoders.com/260/260758.jpg);
+}
+
+
+.add-btn{
+    border: none;
+    border-radius: 5px;
+    width: 50px;
+    background-color:burlywood;
+    
+}

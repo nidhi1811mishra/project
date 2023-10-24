@@ -1,0 +1,29 @@
+.login-img{
+    height:39rem;
+    background-image: url(https://housing.com/news/wp-content/uploads/2022/11/Popular-wooden-furniture-design-for-home-and-types-of-wood.jpg);
+    /* background-image: url(https://images.unsplash.com/photo-1621293954908-907159247fc8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bW9kZXJuJTIwZnVybml0dXJlfGVufDB8fDB8fHww&w=1000&q=80); */
+    /* background-image: url(https://wallpaperaccess.com/full/2076241.jpg); */
+    background-size: cover;
+    background-position:sticky;
+    /* background-repeat: none; */
+}
+.log-btn{
+    background-color:darkcyan;
+    text-align: center;
+    height: 40px;
+    width: 77px;
+    padding: 6px;
+    justify-content: center;
+    justify-items: center;
+    border: none;
+    border-radius: 10px;
+}
+.input{
+    background-color: rgb(245, 245, 245);
+}
+.log-card{
+    background-color:whitesmoke;
+    border-radius: 15px;
+}
+
+
